@@ -4,7 +4,7 @@
   },
   "name": "md2toc",
   "description": "Creates a table of contents from the headings in Markdown content",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
