@@ -1,5 +1,28 @@
 {
   "dependencies": {
     "marked": "^0.3.2"
-  }
+  },
+  "name": "md2toc",
+  "description": "Creates a table of contents from the headings in Markdown content",
+  "version": "0.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mde/md2toc.git"
+  },
+  "keywords": [
+    "Markdown",
+    "TOC",
+    "MD"
+  ],
+  "author": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/mde/md2toc/issues"
+  },
+  "homepage": "https://github.com/mde/md2toc"
 }
